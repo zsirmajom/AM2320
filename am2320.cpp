@@ -1,8 +1,8 @@
 #include "AM2320.h"
 #include <Wire.h>
 // 
-// AM2321 Temperature & Humidity Sensor library for Arduino
-// Сделана Тимофеевым Е.Н. из AM2320-master
+// AM2320 Temperature & Humidity Sensor library for Arduino
+// Сделана Тимофеевым Е.Н.
 
 unsigned int CRC16(byte *ptr, byte length) 
 { 
